@@ -1,1 +1,5 @@
-fungsi 1
+<<<<<<< Updated upstream
+fungsi 1 x 2
+=======
+fungsi 1 x
+>>>>>>> Stashed changes
