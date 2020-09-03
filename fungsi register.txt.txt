@@ -1,5 +1,9 @@
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 fungsi 1 x 2
+=======
+fungsi 1 x
+>>>>>>> Stashed changes
 =======
 fungsi 1 x
 >>>>>>> Stashed changes
